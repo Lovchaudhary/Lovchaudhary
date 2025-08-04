@@ -16,6 +16,15 @@
 
 ---
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lov-chaudhary-108899263/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=about-dot-me)](https://lov-chaudhary-profile.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Lovchaudhary)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Lovchaudhary/)
+
+---
+
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -35,10 +44,9 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 LeetCode Stats
 
-![Lov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lovchaudhary&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovchaudhary&layout=compact&theme=tokyonight&hide_border=true)
+[![Lov's LeetCode Stats](https://leetcard.jacoblin.cool/Lovchaudhary?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Lovchaudhary/)
 
 ---
 
@@ -51,14 +59,6 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lovchaudhary&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lov-chaudhary-108899263/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=about-dot-me)](https://lov-chaudhary-profile.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Lovchaudhary)
 
 ---
 

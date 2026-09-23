@@ -1,14 +1,14 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Lov Chaudhary</h1>
-<h3 align="center">🚀 AI Enthusiast | Web & System Developer | Open Source Mentor</h3>
+<h3 align="center">IDK i just type some Letters</h3>
 
 ---
 
 ## 💡 About Me
 
 - 🎓 B.Tech CSE (AI) Undergrad at SKIT, Jaipur  
-- 👨‍🏫 Mentor @ GSSoC (GirlScript Summer of Code)  
+- 👨‍🏫 Ex-Mentor @ GSSoC (GirlScript Summer of Code)  
 - 🧪 Former Intern @ LNMIIT & Bythost  
 - 🛠 Building **Smart Traffic Management**, **Finance Tracker**, and **Sudoku Solver with Chat**  
 - 💬 Ask me about **React, C++, Python, TailwindCSS, System Design**  
